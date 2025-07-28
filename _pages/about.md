@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD student in the Department of Information Science at the University of Arkansas at Little Rock, where I am advised by Prof. Nitin Agarwal.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research explores the dynamics of collective action, the design and impact of information campaigns, and the role of social computing in shaping public discourse. I am particularly interested in how digital platforms facilitate or hinder group coordination, mobilization, and narrative formation. Drawing from computational social science, human-computer interaction, and communication studies, my work combines quantitative and qualitative methods to understand how people organize, engage, and influence one another in networked environments.
+
+I received my Bachelor's degree in Information Technology from the University of Burdwan in India. Before starting my PhD, I worked as a Software Developer and Data Engineer for 6 years at companies including Cognizant and Accenture.
+
+I am currently working as a Research Assistant at Collaboratorium for Social Media and Online Behavioral Studies (COSMOS) Research Center.
+
+The research I am working on ("Developing Socio-computational Approaches to Mitigate Collective Action-based Socio-cognitive Security Threats in a Multi-platform Multimedia-rich Information Environment". PI: Dr. Nitin Agarwal) is funded by the U.S. Army Research Office (ARO) Social and Cognitive Networks Program.
 
 A data-driven personal website
 ======
