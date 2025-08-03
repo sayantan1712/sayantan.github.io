@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sayantan"
+title                    : "Sayantan Bhattacharya"
 title_separator          : "-"
 name                     : &name "Sayantan Bhattacharya"
 description              : &description "PhD Student/Researcher in Social Computing/Computational Social Science"
@@ -22,10 +22,10 @@ repository               : "sayantan1712/sayantan1712.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo.jpg"
+  avatar           : "/images/profile1.jpg"
   name             : "Sayantan Bhattacharya"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student researching collective action, information campaigns, and social computing, with a focus on how digital platforms shape group behavior and public discourse."
+  bio              : "PhD student researching Collective Action, Information Campaigns, and Social Computing."
   location         : "Little Rock, Arkansas"
   employer         : "University of Arkansas-Little Rock"
   uri              : # URL

@@ -18,4 +18,3 @@ I am currently working as a Research Assistant at Collaboratorium for Social Med
 The research I am working on ("Developing Socio-computational Approaches to Mitigate Collective Action-based Socio-cognitive Security Threats in a Multi-platform Multimedia-rich Information Environment". PI: Dr. Nitin Agarwal) is funded by the U.S. Army Research Office (ARO) Social and Cognitive Networks Program.
 
 My dissertation looks into contributing factors of a successful information campaign and socio-computational modelling of Collective Action.
-

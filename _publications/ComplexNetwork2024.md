@@ -9,5 +9,5 @@ venue: 'Complex Network 2024'
 slidesurl: ''
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-82431-9_30'
 bibtexurl: ''
-citation: 'Bhattacharya, S. et al. (2025). “Decoding Digital Dissent Through Focal Network Structures.” Preprint.'
+citation: 'Bhattacharya, S. et al. (2025). “Decoding Digital Dissent Through Focal Network Structures.”'
 ---
