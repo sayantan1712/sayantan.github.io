@@ -29,6 +29,8 @@ The key themes of my research include:
 
 This study traced the amplification of election denial and anti-government sentiment across Twitter. It analyzed retweet cascades, influencer nodes, and temporal peaks of incitement in relation to offline mobilization.
 
+<img src="/images/US_Insurrection.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 ---
 
 ### 🇧🇷 Brazil Insurrection (Twitter/Instagram)
