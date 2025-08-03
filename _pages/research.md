@@ -83,6 +83,8 @@ Instagram was used as the primary platform to examine visual discourse, politica
 
 Focused on alternative platforms such as Gab and Rumble, the study highlighted how fringe communities propagate conspiracies, their connection to mainstream platforms, and their potential influence on voter sentiment and collective action.
 
+<img src="/images/us_election.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 ---
 
 ## Summary
