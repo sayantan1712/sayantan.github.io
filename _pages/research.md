@@ -38,12 +38,16 @@ This study traced the amplification of election denial and anti-government senti
 
 Combining multimodal content from Instagram and network analysis of Twitter hashtags, this work examined how populist influencers and online communities mobilized for anti-government actions and disputed democratic legitimacy.
 
+<img src="/images/Brazil.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 ---
 
 ### 🇵🇪 Peru Insurrection (Twitter/Instagram)
 **Investigated grassroots unrest following political instability in Peru.**
 
 The focus was on analyzing decentralized protest discourse on Instagram and political narrative coordination on Twitter. Emphasis was placed on indigenous identity framing and citizen-driven opposition.
+
+<img src="/images/Peru.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 ---
 
@@ -52,6 +56,8 @@ The focus was on analyzing decentralized protest discourse on Instagram and poli
 
 This research explored how digital literacy organizations and citizen networks used short-form video platforms to disrupt foreign disinformation narratives and promote verified information.
 
+<img src="/images/Taiwan.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 ---
 
 ### 🇻🇪 Venezuela Election Discourse (Twitter/Instagram)
@@ -59,12 +65,16 @@ This research explored how digital literacy organizations and citizen networks u
 
 Key themes included state-affiliated narrative propagation, citizen resistance, and hashtag hijacking. Instagram story chains and tweet threads were analyzed for sentiment and mobilization cues.
 
+<img src="/images/venezuela.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
+
 ---
 
 ### 🇲🇾 Malaysian Politics Discourse (Instagram)
 **Studied identity politics and political influencer culture in Malaysia.**
 
 Instagram was used as the primary platform to examine visual discourse, political meme usage, and youth political engagement through narrative-rich storytelling and influencer posts.
+
+<img src="/images/malaysia.png" alt="Research Image" width="300" height="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 ---
 
